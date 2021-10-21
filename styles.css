@@ -1,0 +1,248 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'IBM Plex Mono', monospace;
+    background-color: black;
+    color: white;
+}
+
+header, main, footer {
+    max-width: 1320px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.logo {
+    position: relative;
+    top: 66px;
+    right: 91px;
+}
+
+.banner-1 {
+    font-size: 250px;
+    font-weight: 700;
+    padding-top: 66px;
+    padding-left: 91px;
+}
+
+.banner-2 {
+    font-size: 250px;
+    font-weight: 400;
+    padding-top: 67px;
+    padding-left: 381px;
+}
+
+.banner-3 {
+    font-size: 250px;
+    font-weight: 100;
+    padding-top: 85px;
+    padding-left: 655px;
+}
+
+.author {
+    position: relative;
+    font-size: 48px;
+    font-weight: 400;
+    font-style: italic;
+    bottom: 180px;
+    left: 91px;
+    margin-bottom: -50px;
+}
+
+.font {
+    padding-top: 20px;
+}
+
+.title-1 {
+    font-size: 72px;
+    font-weight: bold;
+    padding-left: 91px;
+}
+
+.title-2 {
+    font-size: 72px;
+    font-weight: 500;
+    padding-left: 91px;
+}
+
+.text-1 {
+    width: 530px;
+    font-size: 36px;
+    font-weight: 400;
+    padding-left: 91px;
+}
+
+.text-2 {
+    width: 530px;
+    font-size: 36px;
+    font-weight: 500;
+    padding-left: 91px;
+    font-style: italic;
+}
+
+.text-3 {
+    width: 650px;
+    font-size: 36px;
+    font-weight: 500;
+    padding-left: 91px;
+}
+
+.ide {
+    width: 700px;
+    height: 490px;
+    background-color: #FFFFFF;
+    margin-top: 100px;
+    margin-left: 531px;
+}
+
+.ide-2 {
+    width: 686px;
+    height: 458px;
+    background-color: #FFFFFF;
+    margin-top: 100px;
+    margin-left: 531px;
+}
+
+.circle {
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+    padding-left: 20px;
+    letter-spacing: 5px;
+    line-height: 80%;
+}
+
+hr {
+    border: none;
+    background-color: black;
+    color: black;
+    height: 4px;
+}
+
+.menu {
+    color: black;
+    padding-left: 20px;
+}
+
+.menu span {
+    padding-right: 10px;
+}
+
+.code {
+    font-size: 24px;
+    color: black;
+    padding-left: 90px;
+    line-height: 90%;
+}
+
+.size-100 {
+    font-weight: 100;
+}
+.size-200 {
+    font-weight: 200;
+}
+.size-300 {
+    font-weight: 300;
+}
+.size-400 {
+    font-weight: 400;
+}
+.size-500 {
+    font-weight: 500;
+}
+.size-600 {
+    font-weight: 600;
+}
+.size-700 {
+    font-weight: 700;
+}
+
+.helvetica {
+    padding-top: 150px;
+    margin-bottom: -150px;
+}
+
+.comp {
+    position: relative;
+    bottom: 265px;
+    left: 650px;
+}
+
+.network {
+    padding-top: 200px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+}
+
+h3 {
+    width: 577px;
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    padding-left: 91px;
+}
+
+.list {
+    padding-top: 100px;
+}
+
+table {
+    width: 1180px;
+    padding-top: 100px;
+    padding-left: 150px;
+    padding-bottom: 150px;
+    font-size: 36px;
+}
+
+.t-100 {
+    font-weight: 100;
+}
+.t-200 {
+    font-weight: 200;
+}
+.t-300 {
+    font-weight: 300;
+}
+.t-400 {
+    font-weight: 400;
+    font-size: 96px;
+}
+.t-500 {
+    font-weight: 500;
+}
+.t-600 {
+    font-weight: 600;
+}
+.t-700 {
+    font-weight: 700;
+}
+
+.td-right {
+    text-align: right;
+    font-style: italic;
+    padding-bottom: 50px;
+}
+
+.collage {
+    padding-top: 50px;
+    padding-left: 335px;
+    padding-bottom: 50px;
+}
+
+footer {
+    height: 75px;
+}
+
+.name {
+    font-size: 24px;
+    font-weight: 200;
+    font-style: italic;
+    padding-left: 91px;
+}
+
+.year {
+    font-size: 24px;
+    font-weight: 200;
+    font-style: italic;
+    padding-left: 781px;
+}
